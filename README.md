@@ -1,2 +1,3 @@
-# clusteringpractice
-clustering of single-cell proteomics data
+# clustering application example
+this is the repository for the week 10 lab 
+
